@@ -1,5 +1,5 @@
-# html-project01-colck
-# 🕒 Project 01: Analog Clock
+# html-project03-colck
+# 🕒 Project 03: Analog Clock
 
 This is a simple **analog clock web app** created using HTML, CSS, and JavaScript. It displays a real-time analog clock along with the current date.
 
